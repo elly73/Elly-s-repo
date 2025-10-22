@@ -1,12 +1,10 @@
 {
-  "name": "Elly’s Repo",
-  "description": "Personal CloudStream plugin repo",
+  "name": "Elly Repo",
+  "description": "My custom CloudStream repo with Movies4U plugin",
   "plugins": [
     {
-      "name": "Test Plugin",
-      "description": "A test placeholder plugin",
-      "url": "https://raw.githubusercontent.com/elly73/Elly-s-repo/main/builds/TestPlugin.cs3",
-      "version": 1
+      "name": "Movies4U",
+      "url": "https://raw.githubusercontent.com/elly73/Elly-s-repo/main/builds/Movies4U.cs3"
     }
   ]
 }
