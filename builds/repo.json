@@ -1,0 +1,11 @@
+"plugins": [
+  {
+    "name": "Test Plugin",
+    "filename": "TestPlugin.cs3",
+    "version": 1,
+    "description": "Just a test plugin file.",
+    "language": "en",
+    "authors": ["Elly"],
+    "url": "https://raw.githubusercontent.com/<your-username>/cloudstream-repo/builds/TestPlugin.cs3"
+  }
+]
