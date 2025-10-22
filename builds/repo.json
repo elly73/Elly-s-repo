@@ -1,5 +1,12 @@
 {
-  "name": "Elly's CloudStream Repo",
-  "description": "My custom CloudStream plugin repository.",
-  "plugins": []
+  "name": "Elly’s Repo",
+  "description": "Personal CloudStream plugin repo",
+  "plugins": [
+    {
+      "name": "Test Plugin",
+      "description": "A test placeholder plugin",
+      "url": "https://raw.githubusercontent.com/elly73/Elly-s-repo/main/builds/TestPlugin.cs3",
+      "version": 1
+    }
+  ]
 }
